@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6"
+  }
+}
